@@ -1,4 +1,4 @@
-17_Scrapy_360images
+# 17_Scrapy_360images
 爬取内容：
   360网站的摄影美图
 反爬措施：
@@ -10,4 +10,3 @@
 存储数据：
   mysql
   mongodb
- 测试
